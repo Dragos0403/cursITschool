@@ -1,0 +1,30 @@
+
+
+.merge {
+    font-family: "Sofia", sans-serif;
+text-align: center;
+    line-height: 7;
+    color: aqua;
+}
+
+
+h1{
+border: 5px blue solid;
+border-radius: 10px;
+margin: 40px;
+padding: 40px;
+}
+
+span{
+    margin: 40;
+    padding:40px;
+    border: 5px blue solid;
+    border-radius: 10px;
+}
+
+div{
+    height: 70px;
+    width: 150px;
+
+    border: 3px solid red;
+}
