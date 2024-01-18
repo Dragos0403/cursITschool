@@ -16,8 +16,8 @@ padding: 40px;
 }
 
 span{
-    margin: 40;
-    padding:40px;
+    /* margin: 40;
+    padding:40px; */
     border: 5px blue solid;
     border-radius: 10px;
 }
