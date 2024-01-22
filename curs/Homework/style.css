@@ -1,0 +1,38 @@
+body{
+    margin:0;
+}
+
+.firsH {
+    color: red;
+    cursor: pointer;
+}
+
+h1:hover {
+    color: blue;
+}
+
+p:hover {
+    color: blue;
+}
+
+p {
+   
+    color: green;
+    cursor: pointer;
+}
+div{
+    position: relative;
+    height: 200px;
+    width: 150px;
+    background-color: aquamarine;
+    margin: 100px;
+}
+
+.flexContainer{
+    display: flex;
+    flex-direction: column;
+}
+.imgT{
+    
+float: right;
+}
