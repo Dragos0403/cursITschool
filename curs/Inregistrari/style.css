@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+    margin: 0;
+}
+
+.flexContainer{
+ 
+    background-color: aquamarine;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a{
+    width: 150px;
+    padding: 15px;
+}
